@@ -1,0 +1,5 @@
+Flask
+PyMuPDF
+scikit-learn
+beautifulsoup4
+requests
